@@ -13,7 +13,7 @@ Looking for Premium Templates?
 
 Demo
 ----------------
-You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
+You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**
 
 ![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
 
@@ -25,7 +25,7 @@ You can choose one from multiple ways for installation.
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
 - Clone to your machine
 ```
-git clone https://github.com/gurayyarar/AdminBSBMaterialDesign.git
+git clone https://github.com/bilaliqbalr/AdminBSBMaterialDesign.git
 ```
 
 **npm**
@@ -58,10 +58,10 @@ You can display all release notes with **[this link](https://gurayyarar.github.i
 
 FAQ
 ===
-**Can I use this template for personal or commercial websites/web projects?**  
+**Can I use this template for personal or commercial websites/web projects?**
 Sure, you can use both of personal and commercial websites/web projects.
 
-**Is the attribution link required?**  
+**Is the attribution link required?**
 No, not required. (Though very much appreciated)
 
 License
